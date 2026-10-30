@@ -1,2 +1,2 @@
-# serialhub
+# serialhub.lua
 um script 
